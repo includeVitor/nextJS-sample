@@ -21,6 +21,9 @@
     "sass": "^1.32.8"
   },
   "devDependencies": {
-    "tailwindcss": "npm:@tailwindcss/postcss7-compat"
+    "@types/node": "^14.14.41",
+    "@types/react": "^17.0.3",
+    "tailwindcss": "npm:@tailwindcss/postcss7-compat",
+    "typescript": "^4.2.4"
   }
 }
